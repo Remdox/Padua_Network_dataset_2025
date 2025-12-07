@@ -12,7 +12,7 @@ The datasets include all the drivable and walkable paths of the province and cit
 ![Map of road network in the province of Padova](Padova_province_network.png)
 
 <p align="center">
-  <b>Figura 1:</b> plot of all drivable and walkable roads in the province of Padova, Italy. Number of nodes: 122.728; number of edges: 304.184.
+  <b>Figure 1:</b> plot of all drivable and walkable roads in the province of Padova, Italy. Number of nodes: 122.728; number of edges: 304.184.
 </p>
 
 <br>
@@ -20,7 +20,7 @@ The datasets include all the drivable and walkable paths of the province and cit
 ![Map of road network in the city of Padova](Padova_city_network.png)
 
 <p align="center">
-  <b>Figura 2:</b> Plot of all drivable and walkable roads in the city of Padova, Italy. Number of nodes: 25.223; number of edges: 63.298.
+  <b>Figure 2:</b> Plot of all drivable and walkable roads in the city of Padova, Italy. Number of nodes: 25.223; number of edges: 63.298.
 </p>
 
 ## Code
